@@ -36,7 +36,7 @@ Here are some of the projects I've worked on, focusing on performance, logic des
 | :--- | :--- | :--- |
 | **[Algorithms and Data Structure Engine](https://github.com/matteovignocchi/project-API-24-25)** | Developed an optimized path-finding engine on a hexagonal-grid map, supporting dynamic costs and air routes, with efficient algorithms for minimum-cost route computation. | `C` `Algorithms` |
 | **[Digital Logic Hardware Module](https://github.com/matteovignocchi/project-reti-logiche-24-25)** | Implemented a VHDL hardware module for differential filtering of data sequences, with full memory interface, control logic, fixed-point normalization, and saturation handling. | `VHDL` `Vivado` `FPGA` |
-| **[Client-Server Board Game](https://github.com/matteovignocchi/ing-sw-2025-Vignocchi-Nedina-LoConte-La Vecchia)** | Implemented a Java client-server version of the board game Galaxy Trucker with full MVC design, networking (Sockets/RMI), GUI/TUI, UML diagrams, and complete testing/documentation. | `Java` `Network` `MVC` |
+| **[Client-Server Board Game](https://github.com/matteovignocchi/ing-sw-2025-Vignocchi-Nedina-LoConte-LaVecchia)** | Implemented a Java client-server version of the board game Galaxy Trucker with full MVC design, networking (Sockets/RMI), GUI/TUI, UML diagrams, and complete testing/documentation. | `Java` `Network` `MVC` |
 
 *(See my [Repositories](https://github.com/matteovignocchi?tab=repositories) for more)*
 
