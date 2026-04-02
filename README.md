@@ -2,13 +2,13 @@
 
 ### 🎓 Computer Engineering Student @ Politecnico di Milano
 
-I am a Computer Engineering student with a strong focus on **embedded systems**, **system architecture**, and **hardware-software interaction**. My approach to engineering is methodical, and I am driven by a genuine motivation to explore new technologies and optimize system performance.
+I am a Computer Engineering student with a strong focus on **low-level programming**, **system architecture**, and **hardware-software interaction**. My approach to engineering is methodical, and I am driven by a genuine motivation to explore new technologies and optimize system performance.
 
 ---
 
 ### 👤 About Me
 
-* **Current Focus:** Focusing on embedded systems, optimizing system performance, and exploring new technologies.
+* **Current Focus:** Focusing on embedded systems, optimizing system performance, and exploring new architectures.
 * **Background:** I combine my academic technical studies with professional experience in the luxury service industry at Villa d'Este. This trajectory has developed my ability to manage complex tasks, balance multiple priorities under pressure, and interact with diverse stakeholders.
 * **Interests:** Precision Engineering (mechanical watchmaking and high-performance automotive design), Hardware Evolution, Martial Arts (Muay Thai), and Music.
 
@@ -23,8 +23,8 @@ I am a Computer Engineering student with a strong focus on **embedded systems**,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Embedded & Core Concepts:**
-* **Frameworks/Hardware:** ROS 2, FPGA Design, Microcontrollers, Sensors.
-* **Concepts:** Algorithms & Data Structures, Digital Logic Design, Signal Processing, SLAM.
+* **Hardware:** FPGA Design, Microcontrollers, Sensors.
+* **Concepts:** Algorithms & Data Structures, Digital Logic Design, Signal Processing, SLAM, Memory Management.
 
 ---
 
