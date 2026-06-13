@@ -1,44 +1,41 @@
-# Hi there, I'm Matteo Vignocchi 👋
+# `$ whoami` — Matteo Vignocchi
 
-### 🎓 Computer Engineering Student @ Politecnico di Milano
+**Computer Engineering @ Politecnico di Milano**
 
-I am a Computer Engineering student with a strong focus on **low-level programming**, **system architecture**, and **hardware-software interaction**. My approach to engineering is methodical, and I am driven by a genuine motivation to explore how software efficiently orchestrates hardware resources.
+I like understanding how things actually work — from the gate level up.
 
----
+I focus on **low-level programming**, **system architecture**, and the boundary where software meets hardware. I care about writing code that respects the machine it runs on.
 
-### 👤 About Me
+Next step: Master's in **Embedded Systems**.
 
-* **Current Focus:** Deepening my knowledge in embedded systems and system-level optimization in view of my Master's degree.
-* **Background:** I combine my academic technical studies with professional experience in the luxury service industry at Villa d'Este. This trajectory has developed my ability to manage complex tasks, balance multiple priorities under pressure, and maintain rigorous attention to detail.
-* **Interests:** Precision Engineering (mechanical watchmaking and high-performance automotive design), Hardware Evolution, Martial Arts (Muay Thai), and Music.
+When I'm not coding: mechanical watches, high-performance engines, Muay Thai, music.
 
 ---
 
-### 🛠 Technologies & Tools
+### What I work with
 
-**Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![VHDL](https://img.shields.io/badge/VHDL-gray?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Tools & Environment:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS_2-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=flat-square&logo=xilinx&logoColor=white)
 
-**Academic & Technical Core:**
-* **Systems:** Digital Logic Design (FPGA/VHDL), Microcontrollers basics, Robotics (ROS 2).
-* **Software Core:** Algorithms & Data Structures, OOP, Signal Processing, SLAM foundations.
+**Core knowledge —** Digital Logic Design (FPGA/VHDL), Microcontrollers & bare-metal programming, Robotics (ROS 2), Algorithms & Data Structures, OOP, Signal Processing, SLAM foundations.
 
 ---
 
-### 💻 Featured Academic Projects
+### Projects worth looking at
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Algorithms Engine](https://github.com/matteovignocchi/project-API-24-25)** | Optimized path-finding engine on a hexagonal-grid map. Focused on memory efficiency and computational complexity. | `C` `Algorithms` |
-| **[Hardware Logic Module](https://github.com/matteovignocchi/project-reti-logiche-24-25)** | VHDL implementation of a differential filtering module. Managed memory interfacing and fixed-point saturation logic. | `VHDL` `Vivado` |
-| **[Distributed Game](https://github.com/matteovignocchi/ing-sw-2025-Vignocchi-Nedina-LoConte-LaVecchia)** | Client-server implementation of Galaxy Trucker. Focused on networking protocols (RMI/Socket) and MVC design. | `Java` `Network` |
+**[Algorithms Engine](https://github.com/matteovignocchi/project-API-24-25)** — `C`
+Path-finding engine on a hexagonal-grid map, optimized for memory efficiency and computational complexity.
+
+**[Hardware Logic Module](https://github.com/matteovignocchi/project-reti-logiche-24-25)** — `VHDL` · `Vivado`
+Differential filtering module with memory interfacing and fixed-point saturation logic.
+
+**[Distributed Game](https://github.com/matteovignocchi/ing-sw-2025-Vignocchi-Nedina-LoConte-LaVecchia)** — `Java`
+Client-server Galaxy Trucker. Networking (RMI/Socket), MVC architecture.
 
 ---
 
-### 📫 Connect with me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.vignocchi03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-vignocchi)
+<p align="center">
+  <a href="mailto:matteo.vignocchi03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/matteo-vignocchi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
