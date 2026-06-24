@@ -6,7 +6,7 @@ I like understanding how things actually work — from the gate level up.
 
 I focus on **low-level programming**, **system architecture**, and the boundary where software meets hardware. I care about writing code that respects the machine it runs on.
 
-Next step: Master's in **Embedded Systems**.
+Admitted to the **EIT Digital Double Degree M.Sc. in Embedded Systems** — full merit scholarship. 
 
 When I'm not coding: mechanical watches, high-performance engines, Muay Thai, music.
 
@@ -32,6 +32,12 @@ Differential filtering module with memory interfacing and fixed-point saturation
 
 **[Distributed Game](https://github.com/matteovignocchi/ing-sw-2025-Vignocchi-Nedina-LoConte-LaVecchia)** — `Java`
 Client-server Galaxy Trucker. Networking (RMI/Socket), MVC architecture.
+
+**[SLAM & Autonomous Navigation](https://github.com/matteovignocchi/robotics-second-project)** — `ROS 2` · `C++`
+Autonomous mapping from 3D LiDAR + Nav2 waypoint navigation on a real mobile robot.
+    
+**[Odometry & State Estimation](https://github.com/matteovignocchi/robotics-first-project)** — `ROS 2` · `C++`
+Encoder-based odometry and ground-truth error evaluation on a tracked robot.
 
 ---
 
