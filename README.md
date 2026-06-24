@@ -18,7 +18,7 @@ When I'm not coding: mechanical watches, high-performance engines, Muay Thai, mu
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS_2-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=flat-square&logo=xilinx&logoColor=white)
 
-**Core knowledge —** Digital Logic Design (FPGA/VHDL), Microcontrollers & bare-metal programming, Robotics (ROS 2), Algorithms & Data Structures, OOP, Signal Processing, SLAM foundations.
+**Core knowledge —** Digital Logic Design (VHDL simulation & synthesis), Microcontrollers & bare-metal programming, Robotics (ROS 2), Algorithms & Data Structures, OOP, Signal Processing, SLAM foundations.
 
 ---
 
